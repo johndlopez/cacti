@@ -29,10 +29,11 @@ const NavStyles = styled.ul`
     }
   }
   @media (max-width: 1300px) {
-  width: 100%;
-  justify-content: center;
-  font-size: 1.5rem;
-  margin: 0;
+    width: 100%;
+    justify-content: center;
+    font-size: 1.5rem;
+    margin: 0;
+  }
 `;
 
 export default NavStyles;
